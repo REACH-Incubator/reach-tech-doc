@@ -1,4 +1,5 @@
-*Infrastructure provided by CEA*
+Infrastructure provided by CEA
+==============================
 
 *Overview of the infrastructure and deployment*
 
